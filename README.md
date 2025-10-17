@@ -35,7 +35,7 @@ my chemical romance fans
 
 ## Latest Blog Posts
 
-No blog posts available yet. Stay tuned for updates!
+https://anothernop.github.io/mikasa/
 
 ## Connect with Me
 
