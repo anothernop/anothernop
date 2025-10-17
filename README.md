@@ -1,32 +1,42 @@
-<h1 align="center">Hi 👋, I'm anothernop</h1>
-<h3 align="center">my chemical romance fans</h3>
+## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anothernop&label=Profile%20views&color=0e75b6&style=flat" alt="anothernop" /> </p>
+I'm **anothernop**, a passionate developer with a focus on creating innovative solutions. I love working on projects that challenge my skills and push me to learn more.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anothernop" alt="anothernop" /></a> </p>
+## About Me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+my chemical romance fans
 
-- 🔭 I’m currently working on [not working](https://anothernop.github.io/mikasa/)
+## Skills & Technologies
 
-- 🌱 I’m currently learning **linux**
 
-- 💬 Ask me about **android problewm**
 
-- 📫 How to reach me **helonignop@gmail.com**
+## Top Projects
 
-- ⚡ Fun fact **i think i ugly**
+- [MikasaFlasher](https://github.com/anothernop/MikasaFlasher): Flash system GSI Easy | ⭐ 0 | Language: Python
+- [action-twrp-builder](https://github.com/anothernop/Action-TWRP-Builder): A forked project for building TWRP | | ⭐ 0 | Language: Makefile
+- [mikasa_kernel_S681LN](https://github.com/anothernop/mikasa_kernel_S681LN): Kernel development for the S681LN device | ⭐ 0 | Language: C
+- [anothernop](https://github.com/anothernop/anothernop): About Me repository | ⭐ 0 | Language: N/A
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/nopxy_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nopxy_z" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anothernop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anothernop" height="30" width="40" /></a>
-</p>
+## GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+🎉 **Public Repositories:** 8  
+👥 **Followers:** 0  
+👤 **Following:** 0  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anothernop&show_icons=true&locale=en" alt="anothernop" /></p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anothernop&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anothernop&" alt="anothernop" /></p>
+## Recent Activity
 
+- **Updated README** for *twrp_device_ribet* with itel S23+ specifications on 2025-10-15.
+- **Pushed changes** to *twrp_device_ribet* and created a new branch on 2025-10-15.
+- **Forked** *azwhikaru/Action-TWRP-Builder* on 2025-10-15.
+- **Created a new repository** for *twrp_device_ribet* on 2025-10-15.
+- **Pushed changes** to *twrp_device_ribet* on 2025-10-15.
+
+## Latest Blog Posts
+
+No blog posts available yet. Stay tuned for updates!
+
+## Connect with Me
+
+{}
